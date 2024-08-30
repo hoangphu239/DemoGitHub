@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
             DemoGitHubTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android New Layout",
+                        name = "Android New Layout 11111",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
